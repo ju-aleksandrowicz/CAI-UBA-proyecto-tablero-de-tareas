@@ -1,0 +1,11 @@
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Consola\bin\Debug\ProyectoTablero.Consola.exe.config
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Consola\bin\Debug\ProyectoTablero.Consola.exe
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Consola\bin\Debug\ProyectoTablero.Consola.pdb
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Consola\bin\Debug\ProyectoTablero.Dominio.dll
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Consola\bin\Debug\ProyectoTablero.Dominio.pdb
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Consola\obj\Debug\ProyectoTablero.Consola.csproj.AssemblyReference.cache
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Consola\obj\Debug\ProyectoTablero.Consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Consola\obj\Debug\ProyectoTablero.Consola.csproj.CoreCompileInputs.cache
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Consola\obj\Debug\ProyectoTablero.Consola.csproj.CopyComplete
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Consola\obj\Debug\ProyectoTablero.Consola.exe
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Consola\obj\Debug\ProyectoTablero.Consola.pdb

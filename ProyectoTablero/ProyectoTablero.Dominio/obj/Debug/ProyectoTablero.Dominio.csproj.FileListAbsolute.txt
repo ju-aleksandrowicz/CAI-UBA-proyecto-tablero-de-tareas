@@ -1,0 +1,6 @@
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Dominio\bin\Debug\ProyectoTablero.Dominio.dll
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Dominio\bin\Debug\ProyectoTablero.Dominio.pdb
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Dominio\obj\Debug\ProyectoTablero.Dominio.csproj.AssemblyReference.cache
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Dominio\obj\Debug\ProyectoTablero.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Dominio\obj\Debug\ProyectoTablero.Dominio.dll
+C:\Users\julian\Documents\GitHub\CAI-UBA-proyecto-tablero-de-tareas\ProyectoTablero\ProyectoTablero.Dominio\obj\Debug\ProyectoTablero.Dominio.pdb
